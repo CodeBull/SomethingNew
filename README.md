@@ -1,5 +1,6 @@
 # SomethingNew
-Something New - Coming Soon One Page Bootstrap 3.3.1 Based Theme
+
+SomethingNew is a Bootstrap 3.3.1 based one page coming soon theme!
 
 ## Installation
 Just download this repository and you are good to go!
